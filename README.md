@@ -1,5 +1,5 @@
 # projectx
-Python backend server
+Python based web server
 
 **Steps**
 - Install Python: https://www.python.org/downloads/
